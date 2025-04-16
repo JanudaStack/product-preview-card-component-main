@@ -90,15 +90,3 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
-
-Perfume
-
-Gabrielle Essence Eau De Parfum
-
-A floral, solar and voluptuous interpretation composed by Olivier Polge,
-Perfumer-Creator for the House of CHANEL.
-
-$149.99
-$169.99
-
-Add to Cart
