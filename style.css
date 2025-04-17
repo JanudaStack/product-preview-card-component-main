@@ -74,6 +74,7 @@ main {
 }
 
 .product-category {
+    letter-spacing: 4px;
     font-size: var(--paragraph-font-size);
     font-family: var(--paragraph-font);
     text-transform: uppercase;
