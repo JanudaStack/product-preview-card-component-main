@@ -129,6 +129,11 @@ main {
     background-color: var(--btn-clr-hover);
 }
 
+.attribution {
+    text-align: center;
+    font-family: var(--paragraph-font);
+}
+
 @media (min-width: 720px) {
     .card-inner {
         flex-direction: row;
